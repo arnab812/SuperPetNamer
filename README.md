@@ -1,2 +1,2 @@
 # SuperPetNamer
-Generative AI model on suggesting an 'AvengerName'(s) to animals.
+Generative AI model on suggesting 'AvengerName'(s) to animals.
