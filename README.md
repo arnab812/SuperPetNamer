@@ -1,6 +1,8 @@
 # SuperPetNamer
 Generative AI model on suggesting 'AvengerName'(s) to animals. 
 
+![Large Language Model Application - SuperPetNamer UI Overview](https://github.com/arnab812/SuperPetNamer/blob/main/Large%20Language%20Model%20Application%20-%20SuperPetNamer.jpg)
+
 # What is it all about? 
 This repository contains a simple web service that generates superhero names for animals using the OpenAI GPT-3.5 Turbo model.
 
